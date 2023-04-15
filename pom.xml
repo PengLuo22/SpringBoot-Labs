@@ -113,6 +113,8 @@
 <!--        <module>labx-29-spring-cloud-consul-bus</module>-->
 <!--        <module>labx-30-spring-cloud-grpc</module>-->
         <module>lab-72-minio</module>
+        <module>lab-basic-parent</module>
+        <module>lab-basic-parent/lab-lang-java8</module>
     </modules>
 
 </project>
